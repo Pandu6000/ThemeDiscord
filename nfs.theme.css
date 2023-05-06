@@ -14,18 +14,18 @@
     --activetext-colour: white;
 
     --primary1-colour: navy;
-    --primary2-colour: rgb(0,0,128);
-    --primary3-colour: rgb(0,0,128);
+    --primary2-colour: rgb(0,0,128,0.5);
+    --primary3-colour: rgb(0,0,128,0.6);
 
-    --secondary1-colour: rgb(0,0,128);
-    --secondary2-colour: rgb(0,0,128);
-    --secondary3-colour: rgb(0,0,128);
+    --secondary1-colour: rgb(0,0,128,0.3);
+    --secondary2-colour: rgb(0,0,128,0.5);
+    --secondary3-colour: rgb(0,0,128,0.5);
 
-    --transparency-1: linear-gradient(to right, rgb(0,0,128), rgb(0,0,128));
-    --transparency-2: linear-gradient(to right, rgb(0,0,128), rgb(0,0,128));
-    --transparency-3: linear-gradient(to right, rgb(0,0,128), rgb(0,0,128));
-    --transparency-4: linear-gradient(to right, rgb(0,0,128), rgb(0,0,128));
-    --transparency-5: linear-gradient(to right, rgb(0,0,128), rgb(0,0,128));
+    --transparency-1: linear-gradient(to right, rgb(0,0,128,0.5), rgb(0,0,128,0.5));
+    --transparency-2: linear-gradient(to right, rgb(0,0,128,0.5), rgb(0,0,128,0.5));
+    --transparency-3: linear-gradient(to right, rgb(0,0,128,0.5), rgb(0,0,128,0.5));
+    --transparency-4: linear-gradient(to right, rgb(0,0,128,0.5), rgb(0,0,128,0.5));
+    --transparency-5: linear-gradient(to right, rgb(0,0,128,0.5), rgb(0,0,128,0.5));
 }
   
 /*
